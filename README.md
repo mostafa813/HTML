@@ -1,20 +1,21 @@
-<h1>writing "freedns.afraid.org" with HTML(without css)</h1>
-<h3>Functions:</h3>
-<br>
+# writing "freedns.afraid.org" with HTML(without css)
+
+Hi.The purpose of this project is learning an practicing HTML by writing a copy of  "freedns.afraid.org" without CSS.
+
+
+## Functions:
+
 this website has no Functionality because it is a single copy of the original website and has no back end.
-<br>
-<h3>technologies:</h3>
-<br>
-i only used HTML in my project.the original wbsite itself has a simple ui.
-<br>
-<h3>the challenges:</h3>
-<br>
-.for color and font (size and face) i had to use <font> tag in many places.
-<br>
+
+## technologies:
+
+i only used HTML in my project.the original wbsite itself has a simple ui And mostly HTML is used to write it.
+
+## the challenges:
+
+.for color and font (size and face) i had to use tag in many places.  
 .i had to use tables many times.
-<br>
-<h3>Main Features:</h3>
-<br>
-.Clean Design
-<br>
+## Main Features:
+
+.Clean Design  
 .Simple & Easy to Use
