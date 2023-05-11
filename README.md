@@ -13,3 +13,4 @@ i only used HTML in my project.the original wbsite itself has a simple ui And mo
 ## how to see the project?
 easy! just click on "https://freedns.vercel.app/"
 ## screenshot:
+![enter image description here](https://github.com/mostafa813/HTML/blob/main/SharedScreenshot.jpg?raw=true)
